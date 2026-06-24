@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="ICON.png" height="40" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="ICON.webp" height="40" style="vertical-align: middle; margin-right: 10px;" />
     东方银狐的奇妙工具
   </h1>
   <p>专注于 Godot 游戏开发、经典 RTS 游戏引擎与任务创作的独立团队。（一个人也算团队吗）</p>
