@@ -5,8 +5,8 @@
   </h1>
   <p>专注于 Godot 游戏开发、经典 RTS 游戏引擎与任务创作的独立团队。（一个人也算团队吗）</p>
   
-  <img src="https://img.shields.io/badge/Godot-4.x-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-4.X-478CBF?logo=godot-engine&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-20%2F23-00599C?logo=C%2B%2B&logoColor=FFFFFF"/>
 </div>
 
 ---
@@ -17,13 +17,15 @@
       <!-- 添加了 <br><br> 让高度和其他两个卡片对齐，确保第一行在同一水平线上 -->
       <h3>🎮 Godot Custom Controls<br><br></h3>
       <p>给 Godot 引擎做的自定义控件，比 Godot 自带的控件有更多功能</p>
-      <a href="https://github.com/SilverFox-Tools/SilverFox-GodotCustomControls">📦 查看项目</a>
+      <img src="https://img.shields.io/badge/Godot-4.6.1 stable-478CBF?logo=godot-engine&logoColor=FFFFFF"/>
+      </p><a href="https://github.com/SilverFox-Tools/SilverFox-GodotCustomControls">📦 查看项目</a>
     </td>
     <td width="33%" align="center">
       <!-- 同样添加了 <br><br> 确保高度绝对一致 -->
       <h3>⚙️ CNCYR Engine Extension<br><br></h3>
       <p>针对西木（Westwood）《红色警戒2：尤里的复仇》引擎的简易扩展。</p>
-      <a href="https://github.com/SilverFox-Tools/SilverFox--CNCYR-EngineExtension">📦 查看项目</a>
+      <img src="https://img.shields.io/badge/C%2B%2B-20%2F23-00599C?logo=C%2B%2B&logoColor=FFFFFF"/>
+      </p><a href="https://github.com/SilverFox-Tools/SilverFox--CNCYR-EngineExtension">📦 查看项目</a>
     </td>
     <td width="33%" align="center">
       <!-- 保持原样，因为它原本就是两行 -->
