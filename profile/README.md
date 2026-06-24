@@ -21,7 +21,7 @@
     </td>
     <td width="33%" align="center">
       <!-- 同样添加了 <br><br> 确保高度绝对一致 -->
-      <h3>⚙️ CNC/YR Engine Extension<br><br></h3>
+      <h3>⚙️ CNCYR Engine Extension<br><br></h3>
       <p>针对西木（Westwood）《红色警戒2：尤里的复仇》引擎的简易扩展。</p>
       <a href="https://github.com/SilverFox-Tools/SilverFox--CNCYR-EngineExtension">📦 查看项目</a>
     </td>
