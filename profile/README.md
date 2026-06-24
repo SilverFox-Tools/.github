@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="ICON.svg" height="48" style="vertical-align: middle; image-rendering: auto; margin-right: 16px;" />
+    <img src="https://ys-g.ysepan.com/wap/d-f-silverfox/99LTGe1CNXJAhFi/OBM1Jgdb8aj4KIwRT,69ACQM7lscVP/ICON.svg" height="48" style="vertical-align: middle; image-rendering: auto; margin-right: 16px;" />
     东方银狐的奇妙工具
   </h1>
   <p>专注于 Godot 游戏开发、经典 RTS 游戏引擎与任务创作的独立团队。（一个人也算团队吗）</p>
