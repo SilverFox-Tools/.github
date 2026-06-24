@@ -1,8 +1,6 @@
 <div align="center">
   <h1>
-    <!-- 使用您的 SVG，并加上了滤镜让它变成白色/银色（如果您的SVG原本是彩色的，这个滤镜会强制变成白色） -->
-    <!-- 如果您的原图本身就是白线，可以删掉 style="filter: drop-shadow..." 那一段 -->
-    <img src="https://raw.githubusercontent.com/SilverFox-Tools/.github/main/ICON.svg" height="40" ; margin-right: 10px; filter: brightness(0) invert(1);" />
+    <img src="ICON.svg" height="40" style="vertical-align: middle; margin-right: 10px;" />
     东方银狐的奇妙工具
   </h1>
   <p>专注于 Godot 游戏开发、经典 RTS 游戏引擎与任务创作的独立团队。（一个人也算团队吗）</p>
