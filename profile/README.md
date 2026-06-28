@@ -7,6 +7,7 @@
   
   <img src="https://img.shields.io/badge/Godot-4.X-478CBF?logo=godot-engine&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/C%2B%2B-20%2F23-00599C?logo=C%2B%2B&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PowerShell-5.1-478CBF"/>
 </div>
 
 ---
@@ -14,24 +15,30 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <!-- 添加了 <br><br> 让高度和其他两个卡片对齐，确保第一行在同一水平线上 -->
       <h3>🎮 Godot Custom Controls<br><br></h3>
       <p>给 Godot 引擎做的自定义控件，比 Godot 自带的控件有更多功能</p>
       <img src="https://img.shields.io/badge/Godot-4.6.1 stable-478CBF?logo=godot-engine&logoColor=FFFFFF"/>
       </p><a href="https://github.com/SilverFox-Tools/SilverFox-GodotCustomControls">📦 查看项目</a>
     </td>
     <td width="33%" align="center">
-      <!-- 同样添加了 <br><br> 确保高度绝对一致 -->
       <h3>⚙️ CNCYR Engine Extension<br><br></h3>
       <p>针对西木（Westwood）《红色警戒2：尤里的复仇》引擎的简易扩展。</p>
       <img src="https://img.shields.io/badge/C%2B%2B-20%2F23-00599C?logo=C%2B%2B&logoColor=FFFFFF"/>
       </p><a href="https://github.com/SilverFox-Tools/SilverFox--CNCYR-EngineExtension">📦 查看项目</a>
     </td>
     <td width="33%" align="center">
-      <!-- 保持原样，因为它原本就是两行 -->
       <h3>🎖️ RedAlert2 Mission Editor<br>（开发中）</h3>
       <p>为《红色警戒2》打造的战役任务序列可视化编辑工具，轻松修改战役的顺序。</p>
       <a href="https://github.com/SilverFox-Tools/RedAlert2-MissionSequence-Editor">📦 查看项目</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="3 width="100%" align="center" style="background-color: #ff2d2d">
+      <h3>🖥️ RA2Client<br><br></h3>
+      <p>基于 PowerShell5.1 与 WinForms 构建的《红色警戒2》与《尤里的复仇》Mod 管理与任务启动器。</p>
+      <img src="https://img.shields.io/badge/PowerShell-5.1-478CBF"/>
+      </p><a href="https://github.com/SilverFox-Tools/RA2Client">📦 查看项目</a>
     </td>
   </tr>
 </table>
